@@ -1,0 +1,224 @@
+
+# Angry Birds Artificial Player
+
+## Contents
+
+- **Introduction** - 1 page
+- **1. Motivation and Goals** - 1 page
+  - **1.1. Goals** - 1 page
+- **2. Related work** - 6 pages
+  - **2.1. Analysis of applied algorithms** - 2 pages
+  - **2.2. Previous participants** - 4 pages
+    - **2.2.1. Winner of 2014 competition** - 2 pages
+    - **2.2.2. Winner of 2017 competition** - 1 page
+  - **2.3. Deep Q learning in games** - 1 page
+- **3. Provided software** - 7 pages
+  - **3.1. Basic Game playing software** - 1 page
+  - **3.2. Trajectory Module** - 1 page
+  - **3.3. Vision Module** - 2 pages
+  - **3.4. Server-Client Architecture** - 2 pages
+- **4. Learning/Q Learning Essentials** - 5 pages
+  - **4.1. Learning** - 1 page
+  - **4.2. Q-Learning** - 1 page
+  - **4.3. Deep Q-Learning** - 1 page
+  - **4.4. Double Q-Learning** - 1 page
+  - **4.5. Dueling Deep Q-Network Architecture** - 1 page
+- **5. Playing Agents** - 24 pages
+  - **5.1. Problem statement** - 1 page
+  - **5.2. Handmade agent** - 4 pages
+  - **5.3. Reinforcement Learning Agents** - 2 pages
+    - **5.3.1. Environment Description** - 1 page
+  - **5.4. Level Type Classifier and TD Q-Learner** - 6 pages
+  - **5.5. TD Q-Learner and “spikes” state definition.** - 3 pages
+  - **5.6. Deep Q-Network Agent** - 5 pages
+    - **5.6.1. DQN architecture** - 3 pages
+    - **5.6.2. Data used for training and testing** - 3 pages
+- **6. Evaluation** - 16 pages
+  - **6.1. Agents Training Process** - 5 pages
+  - **6.2. Comparison of different agents** - 5 pages
+  - **6.3. Comparison to previous participants of the tournament** - 1 page
+  - **6.4. Comparison to human results** - 1 page
+  - **6.5. Evaluation on the test set of levels** - 2 pages
+  - **6.6. Final results** - 1 page
+  - **6.7. Further improvements** - 1 page
+- **Conclusion** - 2 pages
+- **Bibliography** - 2 pages
+- **Table of Figures** - 3 pages
+- **Attachments** - 5 pages
+
+---
+# Board game with artificial intelligence
+
+## Contents
+
+- **Introduction** - 1 page
+  - **Foreword** - 1 page
+  - **Goals** - 1 page
+- **1 Related Work** - 7 pages
+  - **1.1 Game Frameworks** - 2 pages
+    - **1.1.1 OpenAI Gym** - 1 page
+    - **1.1.2 boardgame.io** - 1 page
+  - **1.2 Algorithms** - 2 pages
+    - **1.2.1 MaxN** - 1 page
+    - **1.2.2 Monte Carlo Tree Search** - 2 pages
+- **2 Game Design** - 6 pages
+  - **2.1 High Level Design** - 1 page
+  - **2.2 Game Rules** - 4 pages
+    - **2.2.1 Colonist Pick** - 1 page
+    - **2.2.2 Proper Turns** - 1 page
+    - **2.2.3 Colonists** - 1 page
+    - **2.2.4 Modules** - 1 page
+  - **2.3 Branching Factor** - 1 page
+- **3 AI Framework** - 4 pages
+  - **3.1 Design** - 1 page
+  - **3.2 Interface** - 1 page
+  - **3.3 Adding new AIs** - 1 page
+- **4 Used Algorithms** - 7 pages
+  - **4.1 Random Decisions** - 1 page
+  - **4.2 Heuristics** - 4 pages
+  - **4.3 MaxN** - 1 page
+  - **4.4 Information Set Monte Carlo Tree Search** - 1 page
+- **5 Experiment Description** - 8 pages
+  - **5.1 Game Balance Experiments** - 2 pages
+    - **5.1.1 Description** - 1 page
+    - **5.1.2 Findings** - 1 page
+  - **5.2 Algorithm Comparison Experiments** - 3 pages
+    - **5.2.1 Description** - 1 page
+    - **5.2.2 Findings** - 1 page
+- **Conclusion** - 1 page
+- **Bibliography** - 2 pages
+- **List of Figures** - 2 pages
+
+---
+# Artificial Intelligence for the Bang! Game
+
+## Contents
+
+- **1 Introduction** - 1 page
+- **2 Basic game mechanics** - 5 pages
+  - **2.1 Terminology** - 1 page
+  - **2.2 Gameplay core** - 1 page
+  - **2.3 Blue and brown cards** - 1 page
+  - **2.4 Turns and phases** - 1 page
+  - **2.5 Roles** - 1 page
+  - **2.6 Teams** - 1 page
+  - **2.7 Characters** - 1 page
+  - **2.8 Distance** - 1 page
+  - **2.9 Health** - 1 page
+  - **2.10 Damage** - 1 page
+  - **2.11 Endgame** - 1 page
+- **3 Game analysis** - 1 page
+- **4 Related work** - 3 pages
+  - **4.1 Artificial intelligence in similar games** - 1 page
+  - **4.2 Existing Bang! implementations** - 1 page
+  - **4.3 Monte Carlo Tree Search** - 1 page
+  - **4.4 Evolution strategies** - 1 page
+- **5 Rule modifications** - 1 page
+- **6 Implementation** - 4 pages
+  - **6.1 Used frameworks and programs** - 1 page
+  - **6.2 Card graphics** - 1 page
+  - **6.3 Basic framework** - 2 pages
+    - **6.3.1 Client** - 1 page
+    - **6.3.2 Server** - 1 page
+    - **6.3.3 Client-Server communication** - 1 page
+  - **6.4 Server-client communication** - 1 page
+  - **6.5 Serialization** - 2 pages
+- **7 Artificial Intelligence** - 29 pages
+  - **7.1 Move types** - 1 page
+  - **7.2 Algorithms used by multiple AIs** - 3 pages
+    - **7.2.1 Tracking cards in opponent’s hands** - 1 page
+    - **7.2.2 Tracking of opponent’s actions** - 2 pages
+      - **7.2.2.1 Targeted attack types** - 1 page
+      - **7.2.2.2 Move tracking algorithm** - 1 page
+    - **7.2.3 Guessing the opponent’s roles** - 3 pages
+  - **7.3 Implemented AIs** - 20 pages
+    - **7.4 Random AI** - 3 pages
+      - **7.4.1 Overview** - 1 page
+      - **7.4.2 Reaction moves** - 1 page
+      - **7.4.3 Start turn reaction moves** - 1 page
+      - **7.4.4 Normal moves** - 1 page
+    - **7.5 Random AI with roles** - 2 pages
+      - **7.5.1 Overview** - 1 page
+      - **7.5.2 Reaction moves** - 1 page
+      - **7.5.3 Start turn reaction moves** - 1 page
+      - **7.5.4 Normal moves** - 1 page
+    - **7.6 Monte Carlo Tree Search AI** - 4 pages
+      - **7.6.1 Overview** - 1 page
+      - **7.6.2 Parallelization** - 1 page
+      - **7.6.3 Tree node** - 1 page
+      - **7.6.4 Choosing a move** - 2 pages
+    - **7.7 Evolution AI** - 7 pages
+      - **7.7.1 Overview** - 1 page
+      - **7.7.2 Individual** - 1 page
+      - **7.7.3 Default individual** - 1 page
+      - **7.7.4 Game state score calculation** - 2 pages
+      - **7.7.5 Normal moves** - 1 page
+      - **7.7.6 Reaction moves** - 1 page
+      - **7.7.7 Start turn reaction moves** - 1 page
+      - **7.7.8 Training** - 1 page
+      - **7.7.9 Advantages and disadvantages** - 1 page
+    - **7.8 Hybrid AI** - 4 pages
+      - **7.8.1 Overview** - 1 page
+      - **7.8.2 Parallelization** - 1 page
+      - **7.8.3 Individual** - 1 page
+      - **7.8.4 Default individual** - 1 page
+      - **7.8.5 Game state score** - 1 page
+      - **7.8.6 Choosing a move** - 1 page
+      - **7.8.7 Training** - 1 page
+      - **7.8.8 Advantages and disadvantages** - 1 page
+- **8 Comparing the AIs** - 6 pages
+  - **8.1 Calculation** - 1 page
+  - **8.2 Testing machine** - 1 page
+  - **8.3 Test results** - 4 pages
+    - **8.3.1 Random AI vs. RAIR** - 1 page
+    - **8.3.2 Monte Carlo Tree Search AI vs. RAIR** - 1 page
+    - **8.3.3 Hybrid AI vs. RAIR** - 1 page
+    - **8.3.4 Evolution AI vs. RAIR** - 1 page
+    - **8.3.5 Monte Carlo Tree Search AI vs. Hybrid AI vs. Evolution AI** - 1 page
+    - **8.3.6 AIs vs. Human** - 1 page
+  - **8.4 Conclusion** - 1 page
+- **9 Conclusion** - 1 page
+  - **9.1 Possible future expansions** - 1 page
+- **Bibliography** - 1 page
+- **List of Abbreviations** - 1 page
+- **Attachment** - 1 page
+
+---
+
+# Adaptive Agent in a FPS Game
+
+## Contents
+
+- **1 Introduction** - 2 pages
+  - **1.1 Thesis structure** - 2 pages
+- **2 Related work** - 2 pages
+- **3 Methods used** - 4 pages
+  - **3.1 Reinforcement learning** - 1 page
+  - **3.2 Temporal-Difference learning** - 3 pages
+    - **3.2.1 Sarsa** - 1 page
+    - **3.2.2 Q-Learning** - 2 pages
+- **4 Used platforms** - 3 pages
+  - **4.1 Unreal Tournament** - 1 page
+  - **4.2 Pogamut** - 1 page
+  - **4.3 Testing platform** - 1 page
+- **5 Design and implementation** - 5 pages
+  - **5.1 Architecture** - 1 page
+  - **5.2 Q-learning** - 1 page
+  - **5.3 Explore/Exploit** - 1 page
+  - **5.4 Clustering** - 2 pages
+- **6 Results and discussion** - 8 pages
+  - **6.1 Experiment setup** - 1 page
+  - **6.2 Basic Q-Learning** - 2 pages
+  - **6.3 Clustering** - 2 pages
+  - **6.4 Learning and discount rate tuning** - 2 pages
+  - **6.5 Discussion** - 2 pages
+- **7 Future work** - 2 pages
+  - **7.1 Eligibility traces** - 1 page
+  - **7.2 Reward function** - 1 page
+  - **7.3 State space** - 1 page
+- **Conclusion** - 3 pages
+- **Bibliography** - 1 page
+- **List of Tables** - 1 page
+- **List of Figures** - 1 page
+- **List of Algorithms** - 1 page
+- **Attachments** - 1 page

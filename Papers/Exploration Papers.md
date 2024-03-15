@@ -1,0 +1,12 @@
+
+- [[Curiosity-driven Exploration by Self-supervised Prediction]]
+- [[Episodic curiosity through reachability]]
+- [[Exploration by Random Network Distillation]] 
+- [[First return, then explore]]
+- [[Hindsight Experience Replay]]
+- [[Never Give Up]]
+- [[Variational Information Maximizing Exploration]]
+- [[Exploration in Deep Reinforcement Learning. A Survey]]
+- [[RIDE. rewarding impact-driven exploration for procedurally-generated environments]]
+- [[NovelD. A Simple yet Effective Exploration Criterion]]
+- [[BeBold. Exploration Beyond the Boundary of Explored Regions]]
